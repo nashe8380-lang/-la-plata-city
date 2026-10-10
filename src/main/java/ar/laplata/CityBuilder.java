@@ -83,8 +83,8 @@ public final class CityBuilder {
 	}
 
 	// ---- Bloques usados ----
-	private static final BlockState ASFALTO_CALLE = Blocks.GRAY_CONCRETE.defaultBlockState();
-	private static final BlockState ASFALTO_AVENIDA = Blocks.BLACK_CONCRETE.defaultBlockState();
+	private static final BlockState ASFALTO_CALLE = Blocks.STONE.defaultBlockState();
+	private static final BlockState ASFALTO_AVENIDA = Blocks.DEEPSLATE.defaultBlockState();
 	private static final BlockState VEREDA_B = Blocks.POLISHED_ANDESITE.defaultBlockState();
 	private static final BlockState PASTO = Blocks.GRASS_BLOCK.defaultBlockState();
 	private static final BlockState CAMINO = Blocks.DIRT_PATH.defaultBlockState();
