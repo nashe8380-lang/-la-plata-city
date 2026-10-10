@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "laplata",
+	"version": "${version}",
+	"name": "La Plata + Estudiantes",
+	"description": "Recreacion de la ciudad de La Plata (trazado fundacional, plazas, diagonales y Paseo del Bosque) y contenido tematico del Club Estudiantes de La Plata.",
+	"authors": [
+		"martinhereter"
+	],
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ar.laplata.LaPlataMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

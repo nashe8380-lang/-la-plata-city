@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": ["minecraft:white_concrete"],
+	"result": { "id": "laplata:blanco_pincha", "count": 1 }
+}

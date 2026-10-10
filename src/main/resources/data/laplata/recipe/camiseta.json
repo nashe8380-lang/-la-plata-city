@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"R": "minecraft:red_wool",
+		"W": "minecraft:white_wool"
+	},
+	"pattern": [
+		"RWR",
+		"RWR",
+		"RWR"
+	],
+	"result": { "id": "laplata:camiseta", "count": 1 }
+}

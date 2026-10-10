@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "building",
+	"ingredients": ["laplata:rojo_pincha", "laplata:blanco_pincha"],
+	"result": { "id": "laplata:rayas_pincha", "count": 2 }
+}

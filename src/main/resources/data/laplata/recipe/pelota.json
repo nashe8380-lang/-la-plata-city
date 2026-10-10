@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"W": "minecraft:white_wool",
+		"K": "minecraft:black_dye"
+	},
+	"pattern": [
+		"WWW",
+		"WKW",
+		"WWW"
+	],
+	"result": { "id": "laplata:pelota", "count": 1 }
+}
